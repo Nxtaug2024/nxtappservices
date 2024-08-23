@@ -5,7 +5,7 @@
 1. For Accessing webapp 
     use 0.0.0.0:3000/ingredients
 
-2. KubeConfig Folder has used for Bash shell and Kubernetes EKs configurations
+2. KubeConfig Folder has been used for Bash shell and Kubernetes EKs configurations
 
 
 ## Stay in touch
