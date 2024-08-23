@@ -11,7 +11,7 @@
 ## Stay in touch
 
 - Author - [kryfin](https://github.com/kryfin)
-
+- [LinkedIn](www.linkedin.com/in/muhammad-usman-38a5161b2)
 ## License
 
 Nxt Inc(LICENSED).
